@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "915191651025",
+    "firebase_url": "https://gmika-ef59f.firebaseio.com",
+    "project_id": "gmika-ef59f",
+    "storage_bucket": "gmika-ef59f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915191651025:android:7855fce1d85eff1c",
+        "android_client_info": {
+          "package_name": "com.example.monko.gmika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915191651025-9g46cp5pk1qohn3ig2o8gorllmjbebta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.monko.gmika",
+            "certificate_hash": "c72241265e76f2db5d4f98d156fef474f2308341"
+          }
+        },
+        {
+          "client_id": "915191651025-go1th7luhqj9euq6uc1m1qut2rgs7klt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG5L-yShKb1V7Htqv-IfGwCkBG8J768yc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915191651025-go1th7luhqj9euq6uc1m1qut2rgs7klt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
